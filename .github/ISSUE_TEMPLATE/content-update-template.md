@@ -1,5 +1,5 @@
 ---
-name: Content update template
+name: Content/Copy design update template
 about: Suggest a small change to copy or content
 title: ''
 labels: ''
