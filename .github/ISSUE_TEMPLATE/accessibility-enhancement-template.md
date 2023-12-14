@@ -8,7 +8,10 @@ assignees: ''
 ---
 
 **Description:**
-[Detail the accessibility issue and its impact.]
+[Describe the accessibility issue.]
+
+**Relevant WCAG 2 Conforance Criteria**
+[Describe the accessibility issue.]
 
 ** Assistive technology **
 [Is this improvement related to specific assistive technologies?]
