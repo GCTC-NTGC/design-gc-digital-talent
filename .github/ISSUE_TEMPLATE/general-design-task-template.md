@@ -1,6 +1,6 @@
 ---
-name: General design task template
-about: Propose some general work for the designers
+name: Design issue
+about: Document designer work
 title: ''
 labels: ''
 assignees: ''
@@ -10,8 +10,8 @@ assignees: ''
 **Description:**
 [Provide context and details about the design task.]
 
-**Design Assets:**
-[Attach design files or assets related to the task.]
+**Known requirements:**
+[If any actual business requirements are known, document them here.]
 
-**Proposed approach:**
-[Suggest how the designers might get started on this work.]
+**Design Assets:**
+[Attach figma files or design assets related to the task.]
